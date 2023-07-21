@@ -1,4 +1,4 @@
-# Housing-Price-Predictor
+# Housing Price Estimator for Mumbai
 Built a Housing Price Predictor for Mumbai using a Machine Learning model by analysing and visualizing the data in different regions of Mumbai and employing various ML models
 
 ## Author - Omkar Nitsure
